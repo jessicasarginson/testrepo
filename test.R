@@ -10,3 +10,4 @@ library(gitcreds)
 gitcreds_set()
 use_github()
 # comment
+2 + 2
